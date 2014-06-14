@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 
 /**
- * 
+ * @author Dinesh Appavoo
  * Class for arithmetic operations on the expressions provided as input.
  * Addition, Subtraction, Multiplication and Exponential operations are supported.
  * 
